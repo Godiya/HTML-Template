@@ -1,5 +1,5 @@
  .body {
-    background-image: url(image.jpg);
+    background-image: url(pix/image.jpg);
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -63,8 +63,7 @@
     margin-left: auto;
 		margin-right: auto;
 		margin-top: 30px;
-		text-align: center;
-		
+		text-align: center;		
 }
 .stay {
 	margin: 1%;
@@ -74,45 +73,41 @@
 }
 .you {
 	line-height: 25px;
-  font-family: poppsins;
-  font-size: 17px;
-  margin-bottom: 50px;
-   text-decoration: none;
+    font-family: poppsins;
+    font-size: 17px;
+    margin-bottom: 50px;
+    text-decoration: none;
 }
 .come{
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-	margin-top: 30px;
-	font-size: 25px
+	 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	 margin-top: 30px;
+	 font-size: 25px
 }
 .fa {
-	background-color:skyblue;
-	color: black;
-	width: 5%;
-	text-align: center;
-	margin-left: 10px;
-	margin-right: 10px;
-	padding: 5px;
+	 background-color:skyblue;
+	 color: black;
+	 width: 5%;
+	 text-align: center;
+	 margin-left: 10px;
+	 margin-right: 10px;
+	 padding: 5px;
 }
 .icons {
-	width: 20%;
-  margin: auto;
+	 width: 20%;
+   margin: auto;
 }
 .copy {
-	background-color: gray;
-	color: white;
-	width: 21%;
-	font-size: 12px;
-	margin-left: 1%;
-	padding-left: 5px;
+	 background-color: gray;
+	 color: white;
+	 width: 21%;
+	 font-size: 12px;
+	 margin-left: 1%;
+	 padding-left: 5px;
 }
-.home ul {
-    color: blue;
-}
-
- a:hover {
- background-color: white;
- color: blue;
- border: solid black;
+a:hover {
+   background-color: white;
+   color: blue;
+   border: solid black;
 }
 
 
