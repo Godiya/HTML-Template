@@ -5,7 +5,9 @@
 This is a template we did at our leisure time
 
 ### Demo (Image)
-![A_Screenshot_of_this_project](/pix/templateImage.png/ )
+![A_Screenshot_of_this_project](/pix/templateImage.PNG "Page view.")
+
+
 
 ### Demo (Live Demo Link)
 https://raw.githack.com/Godiya/HTML-Template/main/index.html
