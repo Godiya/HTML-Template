@@ -5,7 +5,7 @@
 This is a template we did at our leisure time
 
 ### Demo (Image)
-![A_Screenshot_of_this_project](/pix/templateImage.PNG "Page view.")
+![A_Screenshot_of_this_project](/pix/Capture.PNG "Page view.")
 
 
 
