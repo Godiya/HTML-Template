@@ -2,7 +2,7 @@
  HTML-Template
 
 ## Project Description
-This is a template we did at our leisure time
+A project talking briefly on HTML template their types and the gallaries available on HTML template.
 
 ### Demo (Image)
 ![A_Screenshot_of_this_project](/pix/Capture.PNG "Page view.")
